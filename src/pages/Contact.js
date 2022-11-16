@@ -1,5 +1,4 @@
 import "./Contact.css";
-import InstaLogo from "../images/instagram.svg";
 import { NavLink } from "react-router-dom";
 import { Outlet, Link } from "react-router-dom";
 
