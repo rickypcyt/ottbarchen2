@@ -41,6 +41,21 @@ const About = () => {
           </li>
         </ul>
       </nav>
+      <div style={{ margin: "10%" }}>
+        <h1
+          style={{
+            flex: 1,
+            justifyContent: "center",
+            fontSize: 40,
+          }}
+        >
+          Hi Everybody! We are a small German company called OTT Bärchen,
+          dedicated to the sale of medical cannabis products. We have different
+          products with CBD and HHC. We are looking to sell new products, both
+          gummies and vapes. And we are also interested in shipping these
+          products to other countries.
+        </h1>
+      </div>
       <Outlet />
     </>
   );

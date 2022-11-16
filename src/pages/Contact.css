@@ -1,0 +1,8 @@
+svg {
+    width: 45%;
+    height: 45%;
+}
+
+svg:hover {
+    fill: aliceblue;
+}
