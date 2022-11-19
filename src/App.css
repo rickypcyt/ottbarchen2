@@ -230,4 +230,9 @@ input[type="checkbox"] {
   justify-content: space-between;
 }
 
-.BOX {}
+.instagram {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50%;
+}
