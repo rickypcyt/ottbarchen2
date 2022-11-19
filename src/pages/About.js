@@ -41,12 +41,12 @@ const About = () => {
           </li>
         </ul>
       </nav>
-      <div style={{ margin: "10%" }}>
+      <div style={{ margin: "15%" }}>
         <h1
           style={{
             flex: 1,
             justifyContent: "center",
-            fontSize: 40,
+            fontSize: 44,
           }}
         >
           Hi Everybody! We are a small German company called OTT Bärchen,
