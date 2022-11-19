@@ -28,14 +28,15 @@ const About = () => {
             <NavLink to="/">Home</NavLink>
           </li>
           <li>
+            <Link to="/gallery">Gallery</Link>
+          </li>
+          <li>
             <NavLink to="/about" exact={true}>
               <i aria-hidden="true" className="active"></i>
               About
             </NavLink>
           </li>
-          <li>
-            <Link to="/gallery">Gallery</Link>
-          </li>
+          
           <li>
             <Link to="/contact">Contact</Link>
           </li>

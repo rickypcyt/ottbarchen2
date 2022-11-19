@@ -30,11 +30,12 @@ const Contact = () => {
             </NavLink>
           </li>
           <li>
-            <Link to="/about">About</Link>
-          </li>
-          <li>
             <Link to="/gallery">Gallery</Link>
           </li>
+          <li>
+            <Link to="/about">About</Link>
+          </li>
+          
           <li>
             <NavLink to="/contact" exact={true}>
               <i aria-hidden="true" className="active"></i>
